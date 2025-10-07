@@ -1,3 +1,6 @@
+This project was built as part of Fortitud Capital & Investments’ internal research tooling.
+It serves as a production-grade backtesting and automation engine for short-term SPY options strategies, with a focus on realism, modularity, and reproducibility.
+
 # SPY 0DTE Backtester and Live/Paper Runner
 
 A single‑file Python system for backtesting and live/paper trading SPY 0DTE option alerts.
