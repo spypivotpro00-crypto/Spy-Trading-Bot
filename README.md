@@ -162,4 +162,3 @@ Areas to improve (great next steps for a hiring panel):
 - Config presets (e.g., `profiles/*.yaml`) for reproducible runs.
 
 ## License
-No license is provided here. Add one if you plan to open‑source the repo.
